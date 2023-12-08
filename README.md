@@ -3,7 +3,9 @@ Dataset cleaning for getting better model performance
  
     Python : 3.6.9
     Author : Md. Habibur Rahman 
-             Md. Shakir Hossain  
+             Md. Shakir Hossain
+             Mohammad Bin Monjil
+             Atique Mahmud Nirjhar
   
 
 ![](/info/src_img/python.ico?raw=true )
